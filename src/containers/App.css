@@ -1,0 +1,14 @@
+ @font-face {
+    font-family: 'Pixel Technology';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pixel Technology'), url('pixtech.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Pixel Technology';
+        font-weight: 200;
+        background-image: linear-gradient(to right, rgb(56, 47, 141), rgb(214, 20, 99));
+        background-clip: text;
+        color: transparent;
+    }
