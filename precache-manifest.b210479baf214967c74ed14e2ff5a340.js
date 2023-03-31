@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/robofriends/static/media/pixtech.42e767fe.woff"
   },
   {
-    "revision": "3228e4438885c3be8ba1eacb604aff9d",
+    "revision": "91954a0da06bd63003ed28e15b50ee0c",
     "url": "/robofriends/index.html"
   }
 ];
