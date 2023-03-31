@@ -8,7 +8,7 @@
     h1 {
         font-family: 'Pixel Technology';
         font-weight: 200;
-        background-image: linear-gradient(to right, rgb(56, 47, 141), rgb(214, 20, 99));
+        background-image: linear-gradient(to right, #000000, #434343);
         background-clip: text;
         color: transparent;
     }

@@ -2,5 +2,5 @@ body {
   margin: 0;
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
-  background: linear-gradient(to right, rgb(13, 255, 211), rgb(113, 103, 191));
+  background: linear-gradient(to right, #314755, #26a0da);
 }

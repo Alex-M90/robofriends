@@ -11,10 +11,10 @@ class ErrorBoundry extends Component {
   componentDidCatch(error, info) {
     this.setState({ hasError: true })
   }
-  
+
   render() {
     if (this.state.hasError) {
-      return <h2>Sorry there appears to be a problem.</h2>;
+      return <h2 className="tc">Sorry there appears to be a problem.</h2>;
     }
     return this.props.children;
   }
